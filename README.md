@@ -1,5 +1,3 @@
-[Tableau Link](https://public.tableau.com/app/profile/rehma.uzair/viz/AircraftFleetReadinessPredictiveMaintenanceDashboard/Dashboard1?publish=yes)
-
 # Aircraft Fleet Readiness & Predictive Maintenance
 Predictive maintenance analytics project using aircraft engine sensor data to estimate Remaining Useful Life (RUL), identify critical engines, and visualize fleet health trends through an interactive Tableau dashboard.
 
@@ -14,3 +12,8 @@ Predictive maintenance analytics project using aircraft engine sensor data to es
 ## Technologies
 - Backend/Data Processing: Python, Pandas, NumPy
 - Data Visualization: Tableau
+
+## Dashboard
+[Tableau Link](https://public.tableau.com/app/profile/rehma.uzair/viz/AircraftFleetReadinessPredictiveMaintenanceDashboard/Dashboard1?publish=yes)
+
+![Dashboard](EngineAnalysisDashboard.png)
