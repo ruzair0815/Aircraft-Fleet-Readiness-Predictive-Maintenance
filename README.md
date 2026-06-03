@@ -16,4 +16,4 @@ Predictive maintenance analytics project using aircraft engine sensor data to es
 ## Dashboard
 [Tableau Link](https://public.tableau.com/app/profile/rehma.uzair/viz/AircraftFleetReadinessPredictiveMaintenanceDashboard/Dashboard1?publish=yes)
 
-![Dashboard](EngineAnalysisDashboard.png)
+![Dashboard](AircraftDash.png)
